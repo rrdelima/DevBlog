@@ -3,7 +3,7 @@
 <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" style="vertical-align: middle; margin-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="32" style="vertical-align: middle; margin-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="32" style="vertical-align: middle; margin-right: 10px;"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="32" style="vertical-align: middle; margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" style="vertical-align: middle; margin-right: 10px;"/>
 
 ---
 
