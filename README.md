@@ -1,6 +1,6 @@
 # <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="32"/> DevBlog
 
-<img src="public/vite.svg" alt="Vite" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+<img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" style="vertical-align: middle; margin-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="32" style="vertical-align: middle; margin-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="32" style="vertical-align: middle; margin-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="32" style="vertical-align: middle; margin-right: 10px;"/>
@@ -29,7 +29,7 @@ O objetivo é ajudar desenvolvedores de todos os níveis a aprenderem novas ferr
 ## Tecnologias Utilizadas
 
 - <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="24"/> **Vue 3**
-- <img src="public/vite.svg" alt="Vite" width="24"/> **Vite**
+- <img src="https://vitejs.dev/logo.svg" alt="Vite" width="24"/> **Vite**
 - <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="24"/> **JavaScript**
 - <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="24"/> **Node.js**
 - <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="24"/> **Python**
@@ -37,6 +37,12 @@ O objetivo é ajudar desenvolvedores de todos os níveis a aprenderem novas ferr
 ---
 
 ## Imagens do Projeto
+
+> **Dica:** Para exibir prints do seu projeto no GitHub, hospede as imagens em um serviço externo (ex: Imgur, GitHub Issues, ou na pasta do repositório após o push) e use o link direto aqui.
+
+<!-- Exemplo de imagem hospedada externamente:
+![Home](https://i.imgur.com/SEU_EXEMPLO.png)
+-->
 
 ### Home
 ![Home](./public/images/devblog-team.png)
