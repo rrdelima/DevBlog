@@ -1,8 +1,9 @@
-# <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="32"/> DevBlog
+# DevBlog
 
+<img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="32"/>
 <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" style="vertical-align: middle; margin-right: 10px;"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="32" style="vertical-align: middle; margin-right: 10px;"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="32" style="vertical-align: middle; margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" style="vertical-align: middle; margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" style="vertical-align: middle; margin-right: 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" style="vertical-align: middle; margin-right: 10px;"/>
 
 ---
@@ -30,8 +31,8 @@ O objetivo é ajudar desenvolvedores de todos os níveis a aprenderem novas ferr
 
 - <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="24"/> **Vue 3**
 - <img src="https://vitejs.dev/logo.svg" alt="Vite" width="24"/> **Vite**
-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="24"/> **JavaScript**
-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="24"/> **Node.js**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24"/> **JavaScript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24"/> **Node.js**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24"/> **Python**
 
 ---
