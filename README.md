@@ -36,28 +36,6 @@ O objetivo é ajudar desenvolvedores de todos os níveis a aprenderem novas ferr
 
 ---
 
-## Imagens do Projeto
-
-> **Dica:** Para exibir prints do seu projeto no GitHub, hospede as imagens em um serviço externo (ex: Imgur, GitHub Issues, ou na pasta do repositório após o push) e use o link direto aqui.
-
-<!-- Exemplo de imagem hospedada externamente:
-![Home](https://i.imgur.com/SEU_EXEMPLO.png)
--->
-
-### Home
-<!-- ![Home](./public/images/devblog-team.png) -->
-
-### Exemplo de Post
-<!-- ![Post JavaScript](./public/images/js-closures.png) -->
-
-### Vue.js
-<!-- ![Vue.js](./public/images/vue-logo.png) -->
-
-### Vue Router
-<!-- ![Vue Router](./public/images/vue-router.png) -->
-
----
-
 ## Como rodar o projeto localmente
 
 ```bash
