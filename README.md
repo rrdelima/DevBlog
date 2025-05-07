@@ -32,7 +32,7 @@ O objetivo é ajudar desenvolvedores de todos os níveis a aprenderem novas ferr
 - <img src="https://vitejs.dev/logo.svg" alt="Vite" width="24"/> **Vite**
 - <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="24"/> **JavaScript**
 - <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="24"/> **Node.js**
-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="24"/> **Python**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24"/> **Python**
 
 ---
 
@@ -45,16 +45,16 @@ O objetivo é ajudar desenvolvedores de todos os níveis a aprenderem novas ferr
 -->
 
 ### Home
-![Home](./public/images/devblog-team.png)
+<!-- ![Home](./public/images/devblog-team.png) -->
 
 ### Exemplo de Post
-![Post JavaScript](./public/images/js-closures.png)
+<!-- ![Post JavaScript](./public/images/js-closures.png) -->
 
 ### Vue.js
-![Vue.js](./public/images/vue-logo.png)
+<!-- ![Vue.js](./public/images/vue-logo.png) -->
 
 ### Vue Router
-![Vue Router](./public/images/vue-router.png)
+<!-- ![Vue Router](./public/images/vue-router.png) -->
 
 ---
 
