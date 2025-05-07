@@ -1,13 +1,5 @@
 # DevBlog
 
-<img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="32"/>
-<img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" style="vertical-align: middle; margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" style="vertical-align: middle; margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" style="vertical-align: middle; margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" style="vertical-align: middle; margin-right: 10px;"/>
-
----
-
 ## Sobre o projeto
 
 O **DevBlog** é um blog moderno feito com [Vue 3](https://vuejs.org/) + [Vite](https://vitejs.dev/), focado em compartilhar conhecimento sobre desenvolvimento web, programação e tecnologia. Aqui você encontra artigos sobre JavaScript, Vue.js, React, Node.js, Python e muito mais!
